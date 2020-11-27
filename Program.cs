@@ -12,6 +12,7 @@ namespace pssagens
             double[] data = new double[5];
             int contador = 0;
 
+            corrigindo = "";
             rep = 0;
             Console.Write("------------------\nPassagens\n------------------\nDigite sua senha: ");
             senha = Console.ReadLine();
@@ -74,7 +75,7 @@ namespace pssagens
                     break;
                     
                     case 3:
-                        corre(corrigindo);
+                        Corre(corrigindo);
                     break;
 
                     default:
@@ -104,7 +105,7 @@ namespace pssagens
                 return false;
             }
 
-            string corre(string corrigindo)
+            void Corre(string corrigindo)
             {
                 Console.WriteLine($"Você deseja mudar o:\n[N] Nome\n[P] Partida\n[C] Chegada\n[D] Data");
                 corrigindo = Console.ReadLine();

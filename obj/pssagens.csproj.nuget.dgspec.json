@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\pssagens\\pssagens.csproj": {}
+    "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\pssagens\\pssagens.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\pssagens\\pssagens.csproj": {
+    "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\pssagens\\pssagens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\pssagens\\pssagens.csproj",
+        "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\pssagens\\pssagens.csproj",
         "projectName": "pssagens",
-        "projectPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\pssagens\\pssagens.csproj",
+        "projectPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\pssagens\\pssagens.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\pssagens\\obj\\",
+        "outputPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\pssagens\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

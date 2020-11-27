@@ -11,3 +11,16 @@ C:\Users\leand\OneDrive\Área de Trabalho\pssagens\obj\Debug\netcoreapp3.1\pssag
 C:\Users\leand\OneDrive\Área de Trabalho\pssagens\obj\Debug\netcoreapp3.1\pssagens.dll
 C:\Users\leand\OneDrive\Área de Trabalho\pssagens\obj\Debug\netcoreapp3.1\pssagens.pdb
 C:\Users\leand\OneDrive\Área de Trabalho\pssagens\obj\Debug\netcoreapp3.1\pssagens.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\bin\Debug\netcoreapp3.1\pssagens.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\bin\Debug\netcoreapp3.1\pssagens.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\bin\Debug\netcoreapp3.1\pssagens.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\bin\Debug\netcoreapp3.1\pssagens.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\bin\Debug\netcoreapp3.1\pssagens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\bin\Debug\netcoreapp3.1\pssagens.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\obj\Debug\netcoreapp3.1\pssagens.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\obj\Debug\netcoreapp3.1\pssagens.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\obj\Debug\netcoreapp3.1\pssagens.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\obj\Debug\netcoreapp3.1\pssagens.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\obj\Debug\netcoreapp3.1\pssagens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\obj\Debug\netcoreapp3.1\pssagens.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\pssagens\obj\Debug\netcoreapp3.1\pssagens.genruntimeconfig.cache
